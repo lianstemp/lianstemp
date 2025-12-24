@@ -62,7 +62,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=svviitzerland&theme=tokyonight&hide_border=true&background=transparent)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=svviitzerland&theme=tokyonight&hide_border=true&background=transparent)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svviitzerland&theme=tokyonight" width="100%" />
 
